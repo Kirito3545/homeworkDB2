@@ -1,0 +1,31 @@
+﻿  homeworkDB2.sql
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "table"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(5,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(5,1): error C2086: int create: переопределение
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,1): message : см. объявление "create"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(5,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "table"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(9,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(9,1): error C2086: int create: переопределение
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,1): message : см. объявление "create"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(9,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "table"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(14,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(14,1): error C2086: int create: переопределение
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,1): message : см. объявление "create"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(14,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "table"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(19,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(19,1): error C2086: int create: переопределение
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,1): message : см. объявление "create"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(19,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "table"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(24,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(24,1): error C2086: int create: переопределение
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,1): message : см. объявление "create"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(24,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "table"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(30,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(30,1): error C2086: int create: переопределение
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,1): message : см. объявление "create"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(30,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "table"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(35,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(35,1): error C2086: int create: переопределение
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(1,1): message : см. объявление "create"
+C:\Users\dmaz6\source\repos\homeworkDB2\homeworkDB2.sql(35,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "table"
